@@ -1,0 +1,519 @@
+{
+  "total_checkins": 1667,
+  "total_venues": 1330,
+  "matched_venues": 1221,
+  "total_countries": 29,
+  "venue_types": {
+    "food": 780,
+    "nightlife": 319,
+    "travel": 57,
+    "other": 62
+  },
+  "top_venues": [
+    {
+      "name": "Burma Superstar",
+      "country": "USA",
+      "visits": 39,
+      "subcat": "asian"
+    },
+    {
+      "name": "Corks",
+      "country": "Colombia",
+      "visits": 38,
+      "subcat": "winery"
+    },
+    {
+      "name": "The Bitter End",
+      "country": "USA",
+      "visits": 15,
+      "subcat": "pub"
+    },
+    {
+      "name": "Underdogs Tres",
+      "country": "Colombia",
+      "visits": 10,
+      "subcat": "taco"
+    },
+    {
+      "name": "El Ché",
+      "country": "Colombia",
+      "visits": 9,
+      "subcat": "argentinian"
+    },
+    {
+      "name": "Toronado",
+      "country": "USA",
+      "visits": 7,
+      "subcat": "divebar"
+    },
+    {
+      "name": "Sakesan Sushi & Bistro",
+      "country": "Colombia",
+      "visits": 7,
+      "subcat": "japanese"
+    },
+    {
+      "name": "CC's Cocktails",
+      "country": "Colombia",
+      "visits": 6,
+      "subcat": "pub"
+    },
+    {
+      "name": "Gestalt Haus",
+      "country": "USA",
+      "visits": 6,
+      "subcat": "pub"
+    },
+    {
+      "name": "Richmond Republic Draught House",
+      "country": "USA",
+      "visits": 6,
+      "subcat": "pub"
+    },
+    {
+      "name": "La Tasca de Altamar",
+      "country": "Colombia",
+      "visits": 5,
+      "subcat": "seafood"
+    },
+    {
+      "name": "Umami Burger",
+      "country": "USA",
+      "visits": 5,
+      "subcat": "burger"
+    },
+    {
+      "name": "China Live",
+      "country": "USA",
+      "visits": 4,
+      "subcat": "asian"
+    },
+    {
+      "name": "Ariake",
+      "country": "USA",
+      "visits": 4,
+      "subcat": "sushi"
+    },
+    {
+      "name": "Molotov's",
+      "country": "USA",
+      "visits": 4,
+      "subcat": "divebar"
+    },
+    {
+      "name": "Parador La Huella",
+      "country": "Uruguay",
+      "visits": 4,
+      "subcat": "mediterranean"
+    },
+    {
+      "name": "La Carmencita",
+      "country": "Spain",
+      "visits": 4,
+      "subcat": "spanish"
+    },
+    {
+      "name": "Nino Cucina",
+      "country": "Brazil",
+      "visits": 4,
+      "subcat": "italian"
+    },
+    {
+      "name": "37 Park",
+      "country": "Colombia",
+      "visits": 4,
+      "subcat": "default"
+    },
+    {
+      "name": "Bar Crudo",
+      "country": "USA",
+      "visits": 4,
+      "subcat": "seafood"
+    }
+  ],
+  "cuisines": {
+    "pub": 169,
+    "italian": 92,
+    "cocktails": 62,
+    "seafood": 59,
+    "hotel": 44,
+    "tapas": 38,
+    "winery": 33,
+    "cafe": 32,
+    "spanish": 29,
+    "mediterranean": 27,
+    "french": 23,
+    "japanese": 21,
+    "divebar": 20,
+    "pizza": 20,
+    "asian": 19,
+    "sushi": 19,
+    "steakhouse": 18,
+    "gastropub": 18,
+    "coffeeshop": 18,
+    "beergarden": 15,
+    "indian": 15,
+    "thai": 14,
+    "mexican": 14,
+    "brewery": 13,
+    "argentinian": 11,
+    "burger": 10,
+    "beach": 10,
+    "peruvian": 9,
+    "bbqalt": 9,
+    "deli": 8,
+    "ramen": 7,
+    "plaza": 7,
+    "korean": 6,
+    "sportsbar": 6,
+    "nightclub": 6,
+    "caribbean": 5,
+    "german": 5,
+    "vietnamese": 5,
+    "musicvenue_jazzclub": 5,
+    "secretbar": 5,
+    "taco": 4,
+    "whiskey": 4,
+    "bakery": 4,
+    "greek": 4,
+    "breakfast": 4,
+    "hotel_bar": 4,
+    "moroccan": 4,
+    "newamerican": 4,
+    "turkish": 3,
+    "vegetarian": 3,
+    "portuguese": 3,
+    "snacks": 3,
+    "paella": 3,
+    "diner": 3,
+    "latinamerican": 3,
+    "technology": 3,
+    "food_fishmarket": 2,
+    "wings": 2,
+    "apartment": 2,
+    "ethiopian": 2,
+    "middleeastern": 2,
+    "cajun": 2,
+    "resort": 2,
+    "creperie": 2,
+    "southern": 2,
+    "bedandbreakfast": 2,
+    "falafel": 2,
+    "gaybar": 2,
+    "pool": 2,
+    "hostel": 2,
+    "conveniencestore": 2,
+    "hotel_roofdeck": 2,
+    "harbor": 2,
+    "musicvenue": 2,
+    "burrito": 1,
+    "arcade": 1,
+    "fleamarket": 1,
+    "surfspot": 1,
+    "bridal": 1,
+    "food_wineshop": 1,
+    "stripclub": 1,
+    "school": 1,
+    "home": 1,
+    "food_foodcourt": 1,
+    "movingtarget": 1,
+    "bridge": 1,
+    "tearoom": 1,
+    "office_coworkingspace": 1,
+    "lighthouse": 1,
+    "mountain": 1,
+    "friedchicken": 1,
+    "indonesian": 1,
+    "musicvenue_rockclub": 1,
+    "salad": 1,
+    "lake": 1,
+    "tibetan": 1,
+    "performingarts_theater": 1,
+    "musicvenue_pianobar": 1,
+    "spa": 1,
+    "neighborhood": 1,
+    "campground": 1,
+    "market": 1,
+    "historicsite": 1,
+    "dimsum": 1
+  },
+  "cuisine_by_visits": {
+    "other": 136,
+    "italian": 109,
+    "seafood": 79,
+    "winery": 72,
+    "asian": 62,
+    "tapas": 50,
+    "spanish": 40,
+    "cafe": 34,
+    "japanese": 33,
+    "mediterranean": 32,
+    "french": 26,
+    "pizza": 23,
+    "sushi": 22,
+    "argentinian": 21,
+    "gastropub": 20,
+    "steakhouse": 19,
+    "coffeeshop": 19,
+    "indian": 17,
+    "burger": 16,
+    "thai": 16,
+    "brewery": 15,
+    "mexican": 15,
+    "taco": 14,
+    "peruvian": 13,
+    "bbqalt": 11,
+    "deli": 9,
+    "korean": 7,
+    "ramen": 7,
+    "turkish": 5,
+    "bakery": 5,
+    "caribbean": 5,
+    "german": 5,
+    "vietnamese": 5,
+    "greek": 4,
+    "breakfast": 4,
+    "moroccan": 4,
+    "newamerican": 4,
+    "wings": 3,
+    "vegetarian": 3,
+    "portuguese": 3,
+    "snacks": 3,
+    "paella": 3,
+    "diner": 3,
+    "latinamerican": 3,
+    "burrito": 2,
+    "ethiopian": 2,
+    "middleeastern": 2,
+    "cajun": 2,
+    "creperie": 2,
+    "southern": 2,
+    "falafel": 2,
+    "tearoom": 1,
+    "friedchicken": 1,
+    "indonesian": 1,
+    "salad": 1,
+    "tibetan": 1,
+    "dimsum": 1
+  },
+  "countries": [
+    {
+      "country": "USA",
+      "venues": 265,
+      "visits": 400,
+      "food": 173,
+      "nightlife": 61
+    },
+    {
+      "country": "Spain",
+      "venues": 208,
+      "visits": 237,
+      "food": 129,
+      "nightlife": 47
+    },
+    {
+      "country": "Colombia",
+      "venues": 135,
+      "visits": 233,
+      "food": 87,
+      "nightlife": 28
+    },
+    {
+      "country": "Italy",
+      "venues": 131,
+      "visits": 143,
+      "food": 93,
+      "nightlife": 22
+    },
+    {
+      "country": "Mexico",
+      "venues": 60,
+      "visits": 71,
+      "food": 32,
+      "nightlife": 13
+    },
+    {
+      "country": "France",
+      "venues": 63,
+      "visits": 63,
+      "food": 41,
+      "nightlife": 16
+    },
+    {
+      "country": "UK",
+      "venues": 51,
+      "visits": 52,
+      "food": 28,
+      "nightlife": 18
+    },
+    {
+      "country": "Portugal",
+      "venues": 40,
+      "visits": 51,
+      "food": 8,
+      "nightlife": 6
+    },
+    {
+      "country": "Brazil",
+      "venues": 36,
+      "visits": 47,
+      "food": 17,
+      "nightlife": 14
+    },
+    {
+      "country": "Thailand",
+      "venues": 41,
+      "visits": 47,
+      "food": 16,
+      "nightlife": 11
+    },
+    {
+      "country": "Turkey",
+      "venues": 37,
+      "visits": 43,
+      "food": 10,
+      "nightlife": 6
+    },
+    {
+      "country": "Japan",
+      "venues": 41,
+      "visits": 42,
+      "food": 22,
+      "nightlife": 15
+    },
+    {
+      "country": "Germany",
+      "venues": 35,
+      "visits": 36,
+      "food": 19,
+      "nightlife": 9
+    },
+    {
+      "country": "Uruguay",
+      "venues": 22,
+      "visits": 30,
+      "food": 13,
+      "nightlife": 2
+    },
+    {
+      "country": "Netherlands",
+      "venues": 25,
+      "visits": 26,
+      "food": 12,
+      "nightlife": 12
+    },
+    {
+      "country": "Singapore",
+      "venues": 22,
+      "visits": 23,
+      "food": 14,
+      "nightlife": 6
+    },
+    {
+      "country": "Austria",
+      "venues": 14,
+      "visits": 16,
+      "food": 8,
+      "nightlife": 1
+    },
+    {
+      "country": "Croatia",
+      "venues": 14,
+      "visits": 15,
+      "food": 10,
+      "nightlife": 1
+    },
+    {
+      "country": "Indonesia",
+      "venues": 15,
+      "visits": 15,
+      "food": 7,
+      "nightlife": 5
+    },
+    {
+      "country": "Argentina",
+      "venues": 13,
+      "visits": 14,
+      "food": 9,
+      "nightlife": 3
+    },
+    {
+      "country": "S. Korea",
+      "venues": 14,
+      "visits": 14,
+      "food": 7,
+      "nightlife": 4
+    },
+    {
+      "country": "Ireland",
+      "venues": 11,
+      "visits": 11,
+      "food": 4,
+      "nightlife": 7
+    },
+    {
+      "country": "Morocco",
+      "venues": 9,
+      "visits": 10,
+      "food": 4,
+      "nightlife": 1
+    },
+    {
+      "country": "UAE",
+      "venues": 8,
+      "visits": 8,
+      "food": 7,
+      "nightlife": 1
+    },
+    {
+      "country": "Hungary",
+      "venues": 5,
+      "visits": 5,
+      "food": 4,
+      "nightlife": 1
+    },
+    {
+      "country": "Switzerland",
+      "venues": 5,
+      "visits": 5,
+      "food": 2,
+      "nightlife": 3
+    },
+    {
+      "country": "Denmark",
+      "venues": 4,
+      "visits": 4,
+      "food": 1,
+      "nightlife": 3
+    },
+    {
+      "country": "Belgium",
+      "venues": 3,
+      "visits": 3,
+      "food": 1,
+      "nightlife": 2
+    },
+    {
+      "country": "Greece",
+      "venues": 3,
+      "visits": 3,
+      "food": 2,
+      "nightlife": 1
+    }
+  ],
+  "yearly": {
+    "2014": 44,
+    "2015": 60,
+    "2016": 123,
+    "2017": 242,
+    "2018": 284,
+    "2019": 196,
+    "2020": 29,
+    "2021": 134,
+    "2022": 172,
+    "2023": 86,
+    "2024": 155,
+    "2025": 141,
+    "2026": 1
+  }
+}
